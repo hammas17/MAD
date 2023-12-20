@@ -45,8 +45,8 @@ const App = () => {
       )}
       <Marker
         coordinate={{ latitude: 33.7103, longitude: 72.9778 }}
-        title="COMSATS Attock"
-        description="A great place!"
+        title="Comsats"
+        description="Software Engineering"
       />
     </MapView>
   );
